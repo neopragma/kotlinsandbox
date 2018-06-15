@@ -1,0 +1,19 @@
+# Generated data
+/build
+/out
+/captures
+
+# Local environment files
+/local.properties
+
+# If using IntelliJ IDEA or Android Studio
+/.idea
+
+# If using gradle
+.gradle
+
+# Apple OS X thumbnail files
+.DS_Store
+
+# Temporary files - Linux
+*~
